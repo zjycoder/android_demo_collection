@@ -18,6 +18,7 @@ public class ActivityOne extends Activity {
 		output.setText("第一个Activity");
 		
 		Log.e("aa", "另外一个clone内做的改动");
+		Log.e("aa", "第一个分支新增");
 		
 	}
 	
