@@ -17,7 +17,7 @@ public class ActivityOne extends Activity {
 		
 		output.setText("第一个Activity");
 		
-		Log.e("aa", "");
+		Log.e("aa", "分支一 中新增的内容");
 		
 	}
 	
