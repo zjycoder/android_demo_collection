@@ -17,7 +17,7 @@ public class ActivityOne extends Activity {
 		
 		output.setText("第一个Activity");
 		
-		Log.e("aa", "第二个分支进行修改");
+		Log.e("aa", "再次修改了内容g");
 		
 	}
 	
