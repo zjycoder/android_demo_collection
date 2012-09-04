@@ -2,6 +2,7 @@ package test.tabhost.demo;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.TextView;
 
 public class ActivityOne extends Activity {
@@ -15,6 +16,9 @@ public class ActivityOne extends Activity {
 		TextView output = (TextView) findViewById(R.id.output);
 		
 		output.setText("µÚÒ»¸öActivity");
+		
+		Log.e("aa", "");
+		
 	}
 	
 
